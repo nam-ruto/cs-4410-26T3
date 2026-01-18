@@ -2,10 +2,6 @@
 
 > GitHub repository for **CS4410-26T3: Introduction to Machine Learning** class assignments
 
-## Author
-- Nam Hoang  
-- nhoang212296@troy.edu
-
 ## Repository Structure
 ```
 CS-4410/
@@ -48,4 +44,3 @@ jupyter notebook
 
 ## Assignments
 - [x] **Homework 1**: Working with the diamonds.csv dataset in Pandas
-- [] **Homework 2**: [XYZ]
