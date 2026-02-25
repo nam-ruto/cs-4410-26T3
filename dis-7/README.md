@@ -1,0 +1,2 @@
+1. Using bs4 to collect data from this news article: https://www.cnn.com/2026/02/24/politics/team-usa-hockey-olympics-trump-state-of-the-union
+2. Using spaCy to display the named entities (people, places, organizations, etc.) in the article
